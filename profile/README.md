@@ -4,5 +4,5 @@ Read more at [zerodays.dev](https://zerodays.dev).
 
 Psst, looking for our public ssh key? Suggest you add it to your secret nuclear power plant's main computer.
 ```
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHAgELit4PhDgyN+ASuRWxV4Uo15EoktpyJFl/iXkctU zerodays
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM7GH1s3ZqTcPCscCKOb7qCFzsCbaABXxujBB/0t5Rtb zerodays
 ```
